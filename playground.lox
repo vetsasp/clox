@@ -1,0 +1,6 @@
+fun test() {
+  print "functions work";
+}
+
+print test;
+test();
