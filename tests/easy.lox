@@ -1,0 +1,5 @@
+fun pls() {
+  print "pls god";
+}
+
+pls();

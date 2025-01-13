@@ -1,5 +1,5 @@
 # The name of the output executable
-OUTPUT = test
+OUTPUT = lox 
 
 # The compiler to use
 CC = gcc
