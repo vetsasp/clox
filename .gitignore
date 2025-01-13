@@ -2,4 +2,7 @@
 *.o
 
 # ignore test executable
-test
+lox
+
+# ignore dotfiles
+.*
