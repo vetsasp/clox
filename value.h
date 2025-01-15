@@ -19,7 +19,7 @@ typedef struct {
     bool boolean;
     double number;
     Obj* obj;
-} as;
+  } as;
 } Value;
 
 #define IS_BOOL(value)      ((value).type == VAL_BOOL)
