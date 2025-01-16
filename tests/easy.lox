@@ -1,5 +1,2 @@
-fun pls() {
-  print "pls god";
-}
-
-pls();
+class Brioche {}
+print Brioche();
