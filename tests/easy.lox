@@ -1,4 +1,7 @@
-class Pair {}
+class Pair {
+  meth() {}
+  od() {}
+}
 
 var pair = Pair();
 pair.first = 1;
