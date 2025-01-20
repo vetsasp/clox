@@ -6,10 +6,10 @@ CC = gcc
 
 # Compiler flags (optional)
 # CFLAGS = -Wall -Wextra -g
-# CFLAGS = -g
+CFLAGS = -g
 
 # pg for profiling with gprof 
-CFLAGS = -g -pg
+# CFLAGS = -g -pg
 
 # Source files (all .c files in the current directory)
 SRCS = $(wildcard *.c)
